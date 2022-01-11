@@ -1,0 +1,34 @@
+
+h1{
+    color: #F609E7 ;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+   
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.header{
+    background-color: #09F62F ;
+    display: flex;
+    justify-content: space-between;
+    
+}
+body{
+    background-color: rgb(128,128,128);
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+}
+h2{
+    color: #09F3ED;
+}
+p{
+    color: #E4F722 ;
+}
